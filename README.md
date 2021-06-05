@@ -124,7 +124,7 @@ Everything you should know as **software engineer** who work on PHP stack
 - [Usecase Diagram](https://www.youtube.com/watch?v=zid-MVo7M-E)
 - [Sequence Diagram](https://www.youtube.com/watch?v=pCK6prSq8aw&t=19s)
 - Event Storming
-- Fundamentals of Clean Architecture and separating concerns
+- Fundamentals of Clean Architecture and seperation of concerns
 - CQS/CQRS
 - Event Sourcing
 - DDD | Hexagonal architecture
