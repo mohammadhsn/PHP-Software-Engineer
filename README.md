@@ -84,7 +84,7 @@ Everything you should know as **software engineer** who work on PHP stack
 
 ## DB
 - RDBMS
-  - Choice with `MySQL` or `Postgres`
+  - Choose `MySQL` or `Postgres`
   - SQL: `join` `sub-query` `aggregation`
   - DDL
   - DML
