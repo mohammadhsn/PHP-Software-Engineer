@@ -111,7 +111,7 @@ Everything you should know as **software engineer** who work on PHP stack
   - Basic usage of registry
 - Web server
   - Nginx basic stuff
-  - HAProxy (Optional, no required)
+  - HAProxy (Optional, not required)
 - Basic network concepts: Try [khanacademy course](https://www.khanacademy.org/computing/computers-and-internet)
 
 ## Advanced Concepts
