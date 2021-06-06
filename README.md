@@ -90,7 +90,7 @@ Everything you should know as **software engineer** who work on PHP stack
   - DML
   - DCL
   - TCL
-  - Indexing / Foreign keys / ...
+  - Indexing / Foreign keys / Composite Keys / ...
   - Cuncurrency Control and Isolation levels
   - Pesimistic and Optimistic locking
 - Redis as In Memory db (types/threading system/...)
